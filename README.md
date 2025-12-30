@@ -37,7 +37,7 @@ Tech Stack
 
 Getting Started
 ---------------
-1. Clone the repo: git clone https://github.com/yourusername/rajinify.git
+1. Clone the repo: git clone https://github.com/yourusername/rajinify.com.git
 2. Open index.html in any modern browser
 3. Upload photo and watch the magic!
 
