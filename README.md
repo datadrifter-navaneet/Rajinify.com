@@ -1,5 +1,5 @@
 # Rajinify.com
-text
+
 Rajinify - AI-Powered Rajinikanth Transformation App
 ===================================================
 
